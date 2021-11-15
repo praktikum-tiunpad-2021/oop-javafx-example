@@ -1,0 +1,8 @@
+{
+  "gradle.javaDebug": {
+    "tasks": [
+      "run"
+    ],
+    "clean": true
+  }
+}
